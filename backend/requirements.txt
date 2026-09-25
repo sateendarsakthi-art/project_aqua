@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+aiosqlite
+asyncpg
+numpy
+pandas
+scikit-learn
+stable-baselines3
+gymnasium
+torch
+paho-mqtt
+reportlab
