@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+__pycache__/
+.env
+*.db
+*.sqlite
+dist/
+*.zip
+ai/*.zip
